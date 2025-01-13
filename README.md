@@ -53,8 +53,8 @@ I’m a **pre-final year student** pursuing my Bachelor’s degree in **Computer
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/manish-prasad-gupta-053822258/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/ManishPrasadGupta)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](codingengineer2002@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat)](https://portfolio-manish-prasad-guptas-projects.vercel.app/)  
+**You can Email Me at: codingengineer2002@gmail.com [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](codingengineer2002@gmail.com) 
+Or, you can visit my website: [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat)](https://portfolio-manish-prasad-guptas-projects.vercel.app/)  
 
 
 
