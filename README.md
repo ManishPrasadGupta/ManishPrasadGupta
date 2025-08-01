@@ -3,7 +3,7 @@
 A passionate **Web Developer** and **Cybersecurity Enthusiast**. 
 A focus on building scalable applications and delivering seamless user experiences.  
 
-🚀 **Portfolio**: [Explore My Work](https://portfolio-manish-prasad-guptas-projects.vercel.app/)  
+🚀 **Portfolio**: [Explore My Work](https://manish.social/)  
 
 ## About Me 💡  
 
